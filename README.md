@@ -1,1 +1,1 @@
-docs/Magic.md
+docs/magic.md
