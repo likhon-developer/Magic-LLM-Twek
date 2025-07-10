@@ -1,1 +1,1 @@
-# Magic-LLM-Twek
+docs/Magic.md
